@@ -1,0 +1,37 @@
+[
+    ["A","AA"],
+
+    ["AA","AAA"],
+    ["AAA","A3A"],
+    ["AAA","A3B"],
+
+    ["AA","AAB"],
+    ["AAB","A2BA"],
+    ["AAB","A2B2"],
+
+    ["A","AB"],
+
+    ["AB","ABA"],
+    ["ABA","ABA2"],
+    ["ABA2","ABA3"],
+    ["ABA2","ABA2B"],
+
+    ["A","AC"],
+
+    ["AC", "ACA"],
+    ["AC", "ACB"],
+    ["AC", "ACC"],
+    ["ACC", "AC2A"],
+    ["AC2A", "AC2A2"],
+    ["AC2A2", "AC2A3"],
+
+    ["A","AD"],
+
+    ["AD", "ADA"],
+    ["ADA", "ADA2"],
+    ["ADA", "ADAB"],
+
+    ["AD", "ADB"],
+    ["ADB", "ADBA"],
+    ["ADB", "ADB2"]
+]
